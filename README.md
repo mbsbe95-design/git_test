@@ -1,4 +1,4 @@
-\# Git/Github 연습
+\# Git/Github 연습 -FRONTEND
 
 Git \& Githhub를 연습합니다.
 
