@@ -1,8 +1,12 @@
 \# Git/Github 연습
 
-
-
 Git \& Githhub를 연습합니다.
+
+
+
+\## 실습 목표
+
+Git add, commit, push 명령어 익히기
 
 
 
